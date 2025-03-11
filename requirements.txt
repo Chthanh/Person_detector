@@ -1,0 +1,6 @@
+fastapi[all]
+pymongo
+ultralytics
+opencv-python-headless
+numpy
+python-multipart

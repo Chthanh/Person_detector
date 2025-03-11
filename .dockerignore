@@ -1,0 +1,5 @@
+*.txt
+*.yaml
+dockerfile
+dockerfile_base
+__pycache__

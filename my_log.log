@@ -1,0 +1,91 @@
+INFO:root:=====Start app ======
+INFO:root:dang xu li hinh anh
+INFO:root:xu li hinh anh xong
+INFO:root:dang xu li hinh anh
+INFO:root:xu li hinh anh xong
+INFO:root:da nhan hinh anh
+INFO:root:da nhan hinh anh
+INFO:root:=====Start app ======
+2025-03-11 04:58:33,394 - INFO - =====Start app ======
+2025-03-11 04:58:35,626 - INFO - =====Start app ======
+2025-03-11 04:59:05,845 - INFO - dang xu li hinh anh
+2025-03-11 04:59:06,524 - INFO - xu li hinh anh xong
+2025-03-11 04:59:06,532 - INFO - da nhan hinh anh
+2025-03-11 04:59:21,446 - INFO - dang xu li hinh anh
+2025-03-11 04:59:21,518 - INFO - xu li hinh anh xong
+2025-03-11 04:59:21,525 - INFO - da nhan hinh anh
+2025-03-11 05:00:10,204 - INFO - =====Start app ======
+2025-03-11 05:00:12,751 - INFO - =====Start app ======
+2025-03-11 05:00:46,050 - INFO - =====Start app ======
+2025-03-11 05:01:38,801 - INFO - =====Start app ======
+2025-03-11 05:01:48,834 - INFO - =====Start app ======
+2025-03-11 05:02:01,721 - INFO - =====Start app ======
+2025-03-11 05:02:07,925 - INFO - =====Start app ======
+2025-03-11 05:02:10,494 - INFO - =====Start app ======
+2025-03-11 05:02:14,094 - INFO - =====Start app ======
+2025-03-11 05:02:18,851 - INFO - =====Start app ======
+2025-03-11 05:02:21,413 - INFO - =====Start app ======
+2025-03-11 05:02:23,353 - INFO - =====Start app ======
+2025-03-11 05:02:44,161 - INFO - =====Start app ======
+2025-03-11 05:02:55,523 - INFO - =====Start app ======
+2025-03-11 05:03:00,769 - INFO - =====Start app ======
+2025-03-11 05:03:03,383 - INFO - =====Start app ======
+2025-03-11 05:03:08,074 - INFO - =====Start app ======
+2025-03-11 05:03:09,991 - INFO - =====Start app ======
+2025-03-11 05:03:11,981 - INFO - =====Start app ======
+2025-03-11 05:03:17,382 - INFO - =====Start app ======
+2025-03-11 05:03:20,935 - INFO - =====Start app ======
+2025-03-11 05:03:22,927 - INFO - =====Start app ======
+2025-03-11 05:03:26,575 - INFO - =====Start app ======
+2025-03-11 05:03:28,479 - INFO - =====Start app ======
+2025-03-11 06:40:13,513 - INFO - =====Start app ======
+2025-03-11 06:40:23,475 - INFO - xu li hinh anh xong
+2025-03-11 06:40:23,478 - INFO - Dectected 2 people in image and insert log ==> databse
+2025-03-11 06:41:02,888 - INFO - =====Start app ======
+2025-03-11 06:41:11,171 - INFO - =====Start app ======
+2025-03-11 06:41:18,448 - INFO - =====Start app ======
+2025-03-11 06:41:20,482 - INFO - =====Start app ======
+2025-03-11 06:41:23,708 - INFO - =====Start app ======
+2025-03-11 06:41:39,323 - INFO - =====Start app ======
+2025-03-11 06:41:43,819 - INFO - Received 20280084_Mai Chi Thanh.png
+2025-03-11 06:41:44,503 - INFO - Dectected 2 people in image and insert log ==> databse
+2025-03-11 06:42:37,761 - INFO - ======Start app ======
+2025-03-11 06:42:43,731 - INFO - ====== Start app ======
+2025-03-11 06:45:41,294 - INFO - ====== Start app ======
+2025-03-11 06:47:49,684 - INFO - ====== Start app ======
+2025-03-11 06:47:53,667 - INFO - ====== Start app ======
+2025-03-11 06:47:55,791 - INFO - ====== Start app ======
+2025-03-11 06:48:15,713 - INFO - ====== Start app ======
+2025-03-11 06:48:17,741 - INFO - ====== Start app ======
+2025-03-11 06:48:23,784 - INFO - ====== Start app ======
+2025-03-11 06:48:30,186 - INFO - ====== Start app ======
+2025-03-11 06:48:34,751 - INFO - ====== Start app ======
+2025-03-11 06:48:38,395 - INFO - ====== Start app ======
+2025-03-11 06:53:35,199 - INFO - ====== Start app ======
+2025-03-11 06:53:42,102 - INFO - Received 20280084_Mai Chi Thanh.png
+2025-03-11 06:53:42,724 - INFO - Dectected 2 people in image and insert log ==> databse
+2025-03-11 06:53:47,212 - INFO - Received photo_2024-08-04_22-56-56.jpg
+2025-03-11 06:53:47,303 - INFO - Dectected 2 people in image and insert log ==> databse
+2025-03-11 06:54:09,144 - INFO - ====== Start app ======
+2025-03-11 07:01:10,650 - INFO - ====== Start app ======
+2025-03-11 07:05:34,186 - INFO - ====== Start app ======
+2025-03-11 07:07:10,322 - INFO - ====== Start app ======
+2025-03-11 07:07:16,226 - INFO - ====== Start app ======
+2025-03-11 07:09:01,158 - INFO - ====== Start app ======
+2025-03-11 07:09:28,541 - INFO - ====== Start app ======
+2025-03-11 07:09:30,426 - INFO - ====== Start app ======
+2025-03-11 07:09:52,466 - INFO - ====== Start app ======
+2025-03-11 07:09:54,443 - INFO - ====== Start app ======
+2025-03-11 07:09:57,398 - INFO - ====== Start app ======
+2025-03-11 07:10:30,864 - INFO - ====== Start app ======
+2025-03-11 07:10:54,369 - INFO - ====== Start app ======
+2025-03-11 07:11:08,863 - INFO - ====== Start app ======
+2025-03-11 07:11:23,384 - INFO - ====== Start app ======
+2025-03-11 07:11:29,815 - INFO - ====== Start app ======
+2025-03-11 07:11:36,273 - INFO - ====== Start app ======
+2025-03-11 07:11:41,177 - INFO - ====== Start app ======
+2025-03-11 07:11:43,940 - INFO - ====== Start app ======
+2025-03-11 07:11:50,227 - INFO - ====== Start app ======
+2025-03-11 07:11:52,239 - INFO - ====== Start app ======
+2025-03-11 07:12:15,858 - INFO - Received 01JJ2WT9DX1C9X3W0RW5R982ZX_raw_frame_00.jpg
+2025-03-11 07:12:16,549 - INFO - Dectected 1 people in image and insert log ==> databse - 67cfe250cfef7bd35dbbebfd
