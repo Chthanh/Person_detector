@@ -1,5 +1,8 @@
-*.txt
 *.yaml
 dockerfile
 dockerfile_base
+dockerfile.deploy
 __pycache__
+storage
+*.log
+*.md

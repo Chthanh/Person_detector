@@ -1,4 +1,4 @@
-FROM backend:base 
+FROM webapp:base 
 
 WORKDIR /app
 

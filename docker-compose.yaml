@@ -9,7 +9,10 @@ services:
     container_name: 'mongodb'
 
   webapp:
-    image: 'webapp:dev'
+    build:
+      context: ./
+      dockerfile: dockerfile.deploy
+    #image: 'webapp:dev'
     ports:
       - '8000:8000'
     volumes:
