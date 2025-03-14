@@ -62,12 +62,14 @@ curl -X 'POST' 'http://localhost:8000/upload?num_people=3' \
 }
 ``` -->
 
-### 5️⃣ Kiểm tra dữ liệu trong MongoDB
+### 4️⃣ Kiểm tra dữ liệu trong MongoDB
 Nếu bạn muốn kiểm tra dữ liệu đã lưu vào MongoDB:
 ```sh
 docker exec -it <mongo-container-id> mongosh
 use image_db
 db.uploads.find().pretty()
+
+
 ```
 
 <!-- ## ❌ Xử lý lỗi
@@ -79,6 +81,8 @@ docker ps
 ```sh
 docker logs <backend-container-id>
 ``` -->
+## 🎬 Demo
+![Example Image](assets/demo.png)
 
 ## 📌 Conclusion
 This project helps you easily deploy an image processing system with FastAPI and MongoDB, which can be extended for various AI applications. 🚀

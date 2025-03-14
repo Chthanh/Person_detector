@@ -95,3 +95,8 @@ INFO:root:=====Start app ======
 2025-03-12 07:35:33,370 - INFO - ====== Start app ======
 2025-03-12 07:35:36,817 - INFO - Received 20280084_Mai Chi Thanh.png
 2025-03-12 07:35:39,105 - INFO - Dectected 2 people in image and insert log ==> databse - 67d1394b502119efb9b9e487
+2025-03-14 02:26:46,380 - INFO - ====== Start app ======
+2025-03-14 02:27:01,868 - INFO - Received photo_2024-08-04_22-56-56.jpg
+2025-03-14 02:27:02,969 - INFO - Dectected 2 people in image and insert log ==> databse - 67d393f6d6bc16877a3d7afd
+2025-03-14 02:27:10,812 - INFO - Received 20280084_Mai Chi Thanh.png
+2025-03-14 02:27:10,895 - INFO - Dectected 2 people in image and insert log ==> databse - 67d393fed6bc16877a3d7afe
